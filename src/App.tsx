@@ -13,7 +13,7 @@ const Root = () => {
     <div style={{ display: "flex", flexDirection: "column", width: "100vw" }}>
       <nav style={{ width: "100vh", display: "flex", gap: "25px" }}>
         <Link to="/">Home</Link>
-        <Link to="/builder/e9129f18-9c26-433f-b5c3-7cfa41952241">
+        <Link to="/builder/40241a6b-940d-4e7c-81b4-95148f774337">
           Survey-builder
         </Link>
         <Button label="Test button component" />
